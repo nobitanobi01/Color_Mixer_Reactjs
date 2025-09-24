@@ -1,3 +1,4 @@
+import ColorMixer from "./component/ColorMixer"
 
 
 function App() {
@@ -5,7 +6,7 @@ function App() {
 
   return (
     <>
-      
+      <ColorMixer/>
     </>
   )
 }
